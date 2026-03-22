@@ -81,7 +81,6 @@ export const SPECIES: Species[] = [
 
 export const GALLERY_IMAGES = [
   { src: "/images/eric-turkey.jpg", alt: "Successful turkey hunt" },
-  { src: "/images/hunters-deer.jpg", alt: "Hunters with whitetail deer" },
   { src: "/images/eric-fallow.jpg", alt: "Trophy fallow deer harvest" },
   { src: "/images/gallery-nilgai-hunt.jpg", alt: "Nilgai harvest" },
   { src: "/images/gallery-blackbuck-hunt.jpg", alt: "Blackbuck harvest" },
