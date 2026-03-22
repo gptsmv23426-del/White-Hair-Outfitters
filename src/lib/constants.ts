@@ -91,4 +91,13 @@ export const GALLERY_IMAGES = [
   { src: "/images/whitetail-buck.jpg", alt: "Whitetail buck" },
   { src: "/images/nilgai.jpg", alt: "Nilgai in the field" },
   { src: "/images/shooting-house.jpg", alt: "Shooting house setup" },
+  { src: "/images/1636713118682155997.jpeg", alt: "Hunt photo" },
+  { src: "/images/1708840783435193760.jpeg", alt: "Hunt photo" },
+  { src: "/images/2643951294982170750.jpeg", alt: "Hunt photo" },
+  { src: "/images/2845540872828612866.jpeg", alt: "Hunt photo" },
+  { src: "/images/3176580864542157343.jpeg", alt: "Hunt photo" },
+  { src: "/images/3505232231521903272.jpeg", alt: "Hunt photo" },
+  { src: "/images/6542567536004728979.jpeg", alt: "Hunt photo" },
+  { src: "/images/8356529696142099092.jpeg", alt: "Hunt photo" },
+  { src: "/images/9093019191367106462.jpeg", alt: "Hunt photo" },
 ];
