@@ -79,6 +79,12 @@ export const SPECIES: Species[] = [
   },
 ];
 
+export const OTHER_SERVICES = [
+  "Ranch and Land Management",
+  "Wild Game Development",
+  "Ranch Consulting",
+];
+
 export const GALLERY_IMAGES = [
   { src: "/images/eric-turkey.jpg", alt: "Successful turkey hunt" },
   { src: "/images/hunters-deer.jpg", alt: "Hunters with whitetail deer" },
@@ -92,4 +98,19 @@ export const GALLERY_IMAGES = [
   { src: "/images/whitetail-buck.jpg", alt: "Whitetail buck" },
   { src: "/images/nilgai.jpg", alt: "Nilgai in the field" },
   { src: "/images/shooting-house.jpg", alt: "Shooting house setup" },
+  { src: "/images/1000022454.JPG", alt: "Hunt photo" },
+  { src: "/images/1000022554.JPG", alt: "Hunt photo" },
+  { src: "/images/1000022909.JPG", alt: "Hunt photo" },
+  { src: "/images/1000022929.JPG", alt: "Hunt photo" },
+  { src: "/images/1000022958.JPG", alt: "Hunt photo" },
+  { src: "/images/1000023237.JPG", alt: "Hunt photo" },
+  { src: "/images/20230922_151023_IMG_6343.PNG", alt: "Hunt photo" },
+  { src: "/images/20231204_131102_IMG_7429~2.PNG", alt: "Hunt photo" },
+  { src: "/images/20231230_174029_IMG_7694~2.PNG", alt: "Hunt photo" },
+  { src: "/images/20240322_141437_IMG_8426.PNG", alt: "Hunt photo" },
+  { src: "/images/20240324_182114_IMG_8451.PNG", alt: "Hunt photo" },
+  { src: "/images/20250306_232300_IMG_1895~2.PNG", alt: "Hunt photo" },
+  { src: "/images/20251108_155706.JPG", alt: "Hunt photo" },
+  { src: "/images/20251116_175021(0).JPG", alt: "Hunt photo" },
+  { src: "/images/20251205_170319.JPG", alt: "Hunt photo" },
 ];
