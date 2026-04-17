@@ -10,7 +10,7 @@ const blocks = [
     text: "Every hunt starts long before you arrive. Blinds are positioned based on weeks of scouting — trail cameras checked, feeders monitored, wind patterns studied. When you sit down, you're not hoping to see game. You're waiting for what's already been showing up.",
   },
   {
-    image: "/images/hunters-deer.jpg",
+    image: "/images/the-moment.jpg",
     alt: "Hunters with whitetail deer",
     title: "The Moment",
     text: "There's nothing quite like the feeling when it all comes together — the early morning calm, the rustle in the brush, and the shot you've been waiting for. Whether it's your first harvest or your fiftieth, we make sure every moment counts.",

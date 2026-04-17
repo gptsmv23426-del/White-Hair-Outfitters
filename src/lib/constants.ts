@@ -87,7 +87,6 @@ export const OTHER_SERVICES = [
 
 export const GALLERY_IMAGES = [
   { src: "/images/eric-turkey.jpg", alt: "Successful turkey hunt" },
-  { src: "/images/hunters-deer.jpg", alt: "Hunters with whitetail deer" },
   { src: "/images/eric-fallow.jpg", alt: "Trophy fallow deer harvest" },
   { src: "/images/gallery-nilgai-hunt.jpg", alt: "Nilgai harvest" },
   { src: "/images/gallery-blackbuck-hunt.jpg", alt: "Blackbuck harvest" },
@@ -98,6 +97,15 @@ export const GALLERY_IMAGES = [
   { src: "/images/whitetail-buck.jpg", alt: "Whitetail buck" },
   { src: "/images/nilgai.jpg", alt: "Nilgai in the field" },
   { src: "/images/shooting-house.jpg", alt: "Shooting house setup" },
+  { src: "/images/1636713118682155997.jpeg", alt: "Hunt photo" },
+  { src: "/images/1708840783435193760.jpeg", alt: "Hunt photo" },
+  { src: "/images/2643951294982170750.jpeg", alt: "Hunt photo" },
+  { src: "/images/2845540872828612866.jpeg", alt: "Hunt photo" },
+  { src: "/images/3176580864542157343.jpeg", alt: "Hunt photo" },
+  { src: "/images/3505232231521903272.jpeg", alt: "Hunt photo" },
+  { src: "/images/6542567536004728979.jpeg", alt: "Hunt photo" },
+  { src: "/images/8356529696142099092.jpeg", alt: "Hunt photo" },
+  { src: "/images/9093019191367106462.jpeg", alt: "Hunt photo" },
   { src: "/images/1000022454.JPG", alt: "Hunt photo" },
   { src: "/images/1000022554.JPG", alt: "Hunt photo" },
   { src: "/images/1000022909.JPG", alt: "Hunt photo" },
